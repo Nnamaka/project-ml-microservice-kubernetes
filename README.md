@@ -1,6 +1,6 @@
 [![Nnamaka](https://circleci.com/gh/Nnamaka/project-ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
 
-# Boston House House Price model deployment on microservice Kubernetes
+# Boston House Price model deployment on microservice Kubernetes
 Deploying a Machine Learning model as a microservice on kubernetes. This container serves out predictions about housing prices through API calls.
 
 # Dependencies
